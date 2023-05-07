@@ -87,7 +87,8 @@ AudioMixerController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CharacterMixer
-  m_OutputGroup: {fileID: 0}
+  m_OutputGroup: {fileID: 7513289426506613034, guid: 1bc24d95735948d42820e74bf831c0bd,
+    type: 2}
   m_MasterGroup: {fileID: 24300002}
   m_Snapshots:
   - {fileID: 24500006}
